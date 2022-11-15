@@ -1,7 +1,7 @@
 Add Manual coordinates for airplane (done)
 Add without click functionality (not needed)
 AirPlane (Object) Shadow
-Do it for multiple base images (doing)
+Do it for multiple base images
 PySimpleGUI
 
 50-100
