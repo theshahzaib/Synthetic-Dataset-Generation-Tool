@@ -4,9 +4,14 @@
 ```
 conda create -n synthetic_data_generation python=3.9
 ```
+## Activating the Conda Environment
+```
+conda activate synthetic_data_generation
+```
+
 ## Installation
 ```
-pip install -r requirements.txt
+pip install -r req.txt
 ```
 ## Usage
 ```
