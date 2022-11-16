@@ -92,6 +92,8 @@ python main.py
 ## Execution time on local machine
 ![](./imgs/execution1.png)
 
-
+## Authors
+- [@Shahzaib Asif](https://www.github.com/theshahzaib)
+- [@Irfan Hussain](https://www.linkedin.com/in/irfan-hussain-378128174)
 
 
